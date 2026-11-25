@@ -1,6 +1,6 @@
 <!-- Hareketli Cyberpunk/Neon Başlık -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+%5BAd%C4%B1n%5D!;E%C4%9Fitim+Teknolojileri+%26+Oyun+Geli%C5%9Ftiricisi;Yapay+Zeka+Destekli+%C3%9Cr%C3%BCnler+In%C5%9Fa+Ediyorum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+%5BAd%C4%B1n%5D!;E%C4%9Eğitim+Teknolojileri+%26+Oyun+Geli%C5%9Ftiricisi;Yapay+Zeka+Destekli+%C3%9Cr%C3%BCnler+In%C5%9Fa+Ediyorum" alt="Typing SVG" />
 </div>
 
 ---
